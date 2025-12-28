@@ -1,4 +1,4 @@
-# space-harrier-ver.beta
+# space-harrier 3 ver.beta
 This is a beta version.　Simply put, it's a trial version.
 This is an original game and is not official.
 There are 3 stages.
